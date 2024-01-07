@@ -1,4 +1,4 @@
-public class Array_Queue {
+public class  Array_Queue {
     int[] arr ;
     int size;
     int rear = -1;
